@@ -1,0 +1,67 @@
+p {
+    text-align: center;
+    color: rgb(23, 18, 18);
+    font-size: 20px;
+    
+}
+
+p.center { 
+    text-align: center;
+    font-size: 10px;
+
+}
+    h1 {color:rgb(33, 17, 17);
+    background-color: rgba(130, 23, 7, 0.941); 
+    text-align: center;
+    font-size: 50px;
+}
+
+    h2{ text-align: center;
+        background-color: rgb(166, 108, 107);
+      
+    
+    }
+
+    h3 { text-align: center;
+        
+
+    }
+
+
+    label  {
+        text-align: center;
+    }
+       
+     li.center { 
+        text-align: center;
+        font-size: 80%;
+
+    }
+#dov{
+    display: flex;
+    justify-content: center;
+}
+
+#img_circle {
+    height: 400px;
+    height: 200px;
+    border-radius: 50%;
+    border: 5px solid rgb(89, 83, 83)
+
+}
+
+#learn_more {
+    text-align: center;
+    font-size: 80%;
+}
+
+body {
+    background-color: rgba(174, 168, 167, 0.683);
+}
+
+ul.center {
+    text-align: center;
+    font-size: 100%;
+}
+
+
